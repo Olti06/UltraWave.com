@@ -107,7 +107,7 @@ $is_home_page = ($current_page == 'index' || $current_page == 'home' ||
             text-shadow: 0 2px 10px rgba(92, 182, 249, 0.3);
         }
         
-        /* Main Menu Fixes */
+      
         .main-menu {
             display: flex;
             list-style: none;
@@ -171,7 +171,7 @@ $is_home_page = ($current_page == 'index' || $current_page == 'home' ||
             padding-left: 25px;
         }
         
-        /* Header Icons Fixes */
+       
         .header-icons {
             display: flex;
             align-items: center;
