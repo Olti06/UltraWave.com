@@ -2,8 +2,8 @@
 class Database {
     private $host = "localhost";
     private $db_name = "ultrawave_db";
-    private $username = "root";  // ky është default në XAMPP
-    private $password = "";      // fjalëkalimi është bosh në XAMPP
+    private $username = "root";
+    private $password = "";   
     public $conn;
 
     public function getConnection() {
